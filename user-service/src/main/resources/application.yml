@@ -1,9 +1,1 @@
-spring:  application:    name: USER-SERVICE
-    
-eureka:
-  client:
-    register-with-eureka: true
-    fetch-registry: true
-    service-url:
-      defaultZone: http://localhost:5007/eureka/
-  instance:    hostname: localhost
+spring:  application:    name: USER-SERVICE   

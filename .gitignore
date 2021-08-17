@@ -1,0 +1,14 @@
+
+.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location
+*.snap
+*.prefs
+.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project
+*.dat
+*.setup
+*.resources
+*.xml
+*.log
+*.ini
+.metadata/.plugins/org.eclipse.ui.intro/introstate
+.metadata/.lock
+/.metadata/
